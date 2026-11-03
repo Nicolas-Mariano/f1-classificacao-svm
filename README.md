@@ -20,8 +20,8 @@ Avaliação nas temporadas de 2024 a 2026, com 1.024 resultados que o modelo nun
 | SVM baseline | 0,67 | 0,68 | 0,67 | 0,56 | 0,77 |
 
 <p align="center">
-  <img src="docs/figuras/fronteiras-svm.png" alt="Fronteiras de decisão do SVM otimizado, com a posição de largada no eixo horizontal e a posição média da equipe no eixo vertical, comparadas aos cortes da regra simples" width="46.5%" />
-  <img src="docs/figuras/matriz-confusao.png" alt="Matriz de confusão do SVM otimizado no teste: acertou 106 pódios, 209 pontuações e 424 resultados fora do top 10" width="51.5%" />
+  <img src="f1-classificacao-svm/docs/figuras/fronteiras-svm.png" alt="Fronteiras de decisão do SVM otimizado, com a posição de largada no eixo horizontal e a posição média da equipe no eixo vertical, comparadas aos cortes da regra simples" width="46.5%" />
+  <img src="f1-classificacao-svm/docs/figuras/matriz-confusao.png" alt="Matriz de confusão do SVM otimizado no teste: acertou 106 pódios, 209 pontuações e 424 resultados fora do top 10" width="51.5%" />
 </p>
 
 ### O que aprendemos
@@ -129,7 +129,7 @@ O [notebook](notebooks/f1_classificacao_svm.ipynb) explica o raciocínio de cada
 
 Pôster da 4ª edição do UMC Summit. [Abrir em PDF](docs/poster-f1-svm.pdf).
 
-<a href="docs/poster-f1-svm.pdf"><img src="docs/figuras/poster-preview.png" alt="Pôster Análise Preditiva de Resultados da Fórmula 1 utilizando Support Vector Classification" width="420" /></a>
+<a href="f1-classificacao-svm/docs/poster-f1-svm.pdf"><img src="docs/figuras/poster-preview.png" alt="Pôster Análise Preditiva de Resultados da Fórmula 1 utilizando Support Vector Classification" width="420" /></a>
 
 ## Equipe
 
