@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados e saídas geradas
+data/raw/*
+!data/raw/.gitkeep
+resultados/

@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Se usar este projeto, cite-o com os dados abaixo."
+title: "Análise Preditiva de Resultados da Fórmula 1 utilizando Support Vector Classification"
+type: software
+authors:
+  - family-names: "Correia"
+    given-names: "Ana Raquel da Silva"
+  - family-names: "de Azevedo"
+    given-names: "Nicolas Mariano"
+repository-code: "https://github.com/Nicolas-Mariano/f1-classificacao-svm"
+license: MIT
+version: 1.0.0
