@@ -1,6 +1,5 @@
 # Classificação de resultados da Fórmula 1 com SVM
 
-[![Testes](https://github.com/Nicolas-Mariano/f1-classificacao-svm/actions/workflows/testes.yml/badge.svg)](https://github.com/Nicolas-Mariano/f1-classificacao-svm/actions/workflows/testes.yml)
 ![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-SVM-F7931E?logo=scikitlearn&logoColor=white)
 [![Licença MIT](https://img.shields.io/badge/licen%C3%A7a-MIT-green)](LICENSE)
@@ -127,7 +126,7 @@ O [notebook](notebooks/f1_classificacao_svm.ipynb) explica o raciocínio de cada
 
 ## Pôster
 
-Pôster da 4ª edição do UMC Summit. [Abrir em PDF](docs/poster-f1-svm.pdf).
+Pôster da 4ª edição do UMC Summit. [Abrir em PDF](f1-classificacao-svm/docs/poster-f1-svm.pdf).
 
 <a href="f1-classificacao-svm/docs/poster-f1-svm.pdf"><img src="docs/figuras/poster-preview.png" alt="Pôster Análise Preditiva de Resultados da Fórmula 1 utilizando Support Vector Classification" width="420" /></a>
 
